@@ -1,0 +1,18 @@
+# Vibe Coding Tools
+
+> Static open-source directory comparing 36 AI coding platforms across AI IDEs, CLI agents, and no-code app builders by pricing, open source license, pros, cons, build goal, and source code export.
+
+- Live directory: https://developer-assistants.github.io/vibe-coding-tools/
+- Repository: https://github.com/developer-assistants/vibe-coding-tools
+- Raw dataset: https://developer-assistants.github.io/vibe-coding-tools/data/tools.json
+- License: MIT
+
+## Featured platforms
+- Codex (CLI Agents): Open-source CLI by OpenAI for full-stack development.
+- Claude Code (CLI Agents): Terminal coding agent by Anthropic for complex codebases.
+- Cursor (AI IDE): AI-native VS Code fork for professional developers.
+- Lovable (No-code): Full-stack AI web app builder with two-way GitHub sync.
+- Bolt.new (No-code): Browser-based WebContainer app builder for rapid prototyping.
+- Replit Agent (No-code): Cloud IDE and hosting platform to build and deploy in one place.
+- Windsurf (AI IDE): Agentic AI IDE with Cascade flows.
+- Aider (CLI Agents): Free Apache-2.0 terminal pair programmer with native Git commits.

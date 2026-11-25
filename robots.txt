@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://developer-assistants.github.io/vibe-coding-tools/sitemap.xml
